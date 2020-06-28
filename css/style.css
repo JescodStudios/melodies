@@ -893,7 +893,9 @@ h1, h2, h3, h4, h5,
       color: #000; }
 /*Adoption*/
       body{
-        background: #6ff2b2;
+      /*  background: #6ff2b2;*/
+      background: white;
+
       }
       #carouselExampleControls{
         width: 50%;
